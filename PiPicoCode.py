@@ -246,7 +246,7 @@ class EPD_7in5_B:
         self.send_command(0x07) # deep sleep
         self.send_data(0xa5)
 
-if __name__=='__main__':
+if __name__=='__main__': #my code - recieve text over Serial and render it
     epd = EPD_7in5_B()
     epd.Clear()
     epd.imageblack.fill(0xff)
