@@ -9,7 +9,7 @@ The Discord bot runs on the computer. When it recieves a message, it sends the t
 
 This way you can track messages from the Discord server the bot is on.
 
-This program is also a example of USB communication between the computer and Pi Pico.
+This program is also a example/demo of USB Serial communication between computer and Pi Pico.
 
 The WaveShare E-Ink is equipped with a reset button, you can use it to force clear the E-Ink screen and reset the Pico's program. This may crash the Discord bot on the PC though.
 
