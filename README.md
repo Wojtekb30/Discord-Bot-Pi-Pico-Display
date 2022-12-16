@@ -13,4 +13,8 @@ This program is also a example/demo of USB Serial communication between computer
 
 The WaveShare E-Ink is equipped with a reset button, you can use it to force clear the E-Ink screen and reset the Pico's program. This may crash the Discord bot on the PC though.
 
+The Discord bot requires Token stored in a .env file. May require adapting to latest Discord API requirements.
+
+If it's long, the text is split before sending and then reconnected into a single string on the Pico.
+
 ![image](https://user-images.githubusercontent.com/112283903/208149847-b6543520-6000-4bcf-acb2-a762e603fb13.png)
