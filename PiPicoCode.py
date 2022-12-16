@@ -2,7 +2,7 @@
 # * | File        :	  Pico_ePaper-7.5-B.py
 # * | Author      :   Waveshare team
 # * | Function    :   Electronic paper driver
-# * | Info        :
+# * | Info        :   Modified by Wojtekb30 for the current fuction of displaying text sent over USB Serial.
 # *----------------
 # * | This version:   V1.0
 # * | Date        :   2021-05-27
